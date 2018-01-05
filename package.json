@@ -1,0 +1,19 @@
+{
+  "name": "colored-debbuger-lines",
+  "version": "0.0.1",
+  "description": "This package is used to print colored lines for better debugging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagwans/colored-debbuger-lines.git"
+  },
+  "author": "bhagwans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhagwans/colored-debbuger-lines/issues"
+  },
+  "homepage": "https://github.com/bhagwans/colored-debbuger-lines#readme"
+}
